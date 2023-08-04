@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/Foodess-React/static/css/main.76c7764a.css",
-    "main.js": "/Foodess-React/static/js/main.45c6b1bd.js",
+    "main.css": "/Foodess-React/static/css/main.daac2683.css",
+    "main.js": "/Foodess-React/static/js/main.909eae90.js",
     "static/js/787.7e4dddec.chunk.js": "/Foodess-React/static/js/787.7e4dddec.chunk.js",
     "static/media/service3.png": "/Foodess-React/static/media/service3.da78cf918e2d180b254f.png",
     "static/media/bg2.png": "/Foodess-React/static/media/bg2.701c52605e231eb8ff57.png",
     "static/media/service1.png": "/Foodess-React/static/media/service1.b45bdf9df06685973d6c.png",
-    "static/media/bg1.jpg": "/Foodess-React/static/media/bg1.59c4f6330ee53460952e.jpg",
     "static/media/client4.png": "/Foodess-React/static/media/client4.9d529bd68c252c08827e.png",
     "static/media/client3.png": "/Foodess-React/static/media/client3.840aed0a02b22087a748.png",
     "static/media/logoPng.png": "/Foodess-React/static/media/logoPng.42b2013c43d7eef8046a.png",
@@ -15,12 +14,12 @@
     "static/media/client2.png": "/Foodess-React/static/media/client2.91586d3e1b456ff6a569.png",
     "static/media/bg3.jpg": "/Foodess-React/static/media/bg3.88cebf6db494f135f229.jpg",
     "index.html": "/Foodess-React/index.html",
-    "main.76c7764a.css.map": "/Foodess-React/static/css/main.76c7764a.css.map",
-    "main.45c6b1bd.js.map": "/Foodess-React/static/js/main.45c6b1bd.js.map",
+    "main.daac2683.css.map": "/Foodess-React/static/css/main.daac2683.css.map",
+    "main.909eae90.js.map": "/Foodess-React/static/js/main.909eae90.js.map",
     "787.7e4dddec.chunk.js.map": "/Foodess-React/static/js/787.7e4dddec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76c7764a.css",
-    "static/js/main.45c6b1bd.js"
+    "static/css/main.daac2683.css",
+    "static/js/main.909eae90.js"
   ]
 }
