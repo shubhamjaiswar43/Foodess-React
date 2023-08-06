@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Foodess-React/static/css/main.a2adf73b.css",
-    "main.js": "/Foodess-React/static/js/main.3300a80c.js",
+    "main.js": "/Foodess-React/static/js/main.60a2e2e7.js",
     "static/js/787.7e4dddec.chunk.js": "/Foodess-React/static/js/787.7e4dddec.chunk.js",
     "static/media/service3.png": "/Foodess-React/static/media/service3.da78cf918e2d180b254f.png",
     "static/media/bg2.png": "/Foodess-React/static/media/bg2.701c52605e231eb8ff57.png",
@@ -15,11 +15,11 @@
     "static/media/bg3.jpg": "/Foodess-React/static/media/bg3.88cebf6db494f135f229.jpg",
     "index.html": "/Foodess-React/index.html",
     "main.a2adf73b.css.map": "/Foodess-React/static/css/main.a2adf73b.css.map",
-    "main.3300a80c.js.map": "/Foodess-React/static/js/main.3300a80c.js.map",
+    "main.60a2e2e7.js.map": "/Foodess-React/static/js/main.60a2e2e7.js.map",
     "787.7e4dddec.chunk.js.map": "/Foodess-React/static/js/787.7e4dddec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2adf73b.css",
-    "static/js/main.3300a80c.js"
+    "static/js/main.60a2e2e7.js"
   ]
 }
